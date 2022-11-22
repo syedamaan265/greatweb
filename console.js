@@ -7,4 +7,6 @@ funtion main(){
 }
 main()
 
+
+
 console.log(main)
